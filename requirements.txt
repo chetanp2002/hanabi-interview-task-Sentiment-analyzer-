@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+textblob
+vaderSentiment
+pandas
+python-multipart
+httpx
+pyjwt 
+python-jose
